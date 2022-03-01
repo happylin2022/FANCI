@@ -7,4 +7,4 @@ Author information: Wujin Li1,2#, Mingdian Yu1,3#, Jiguang Zhang1,2, Jianyuan Hu
 3、Department of Nuclear Medicine, Fujian Provincial Hospital, Fuzhou 350001, China
 4、Department of Oncology, Fujian Provincial Hospital, Fuzhou 350001, China
 * Correspondence: fzlinxing@163.com
-# Wujin Li and Mingdian Yu contributed equally to this work.
+
